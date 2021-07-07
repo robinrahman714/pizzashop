@@ -1,0 +1,134 @@
+body {
+  font-family: "Noto Sans", sans-serif;
+  margin: 0px;
+}
+h1 {
+  font-size: 70px;
+  color: rgb(97, 95, 95);
+}
+h2 {
+  font-size: 50px;
+  color: rgb(97, 95, 95);
+}
+p {
+  color: rgb(97, 95, 95);
+  font-size: 20px;
+}
+.orange-color {
+  color: orange;
+}
+.flex-container {
+  display: flex;
+  margin-bottom: 0px;
+  margin-right: 0px;
+}
+.link-button {
+  text-decoration: none;
+  font-weight: 900;
+  font-size: 20px;
+  background-image: linear-gradient(orange, rgb(165, 122, 42));
+  color: whitesmoke;
+  padding: 25px 60px;
+  border-radius: 35px;
+}
+.top-banner {
+  background-image: url(assets/7.png);
+  background-repeat: no-repeat;
+  padding-bottom: 200px;
+  background-size: 100%;
+  margin-bottom: 100px;
+}
+.second-part {
+  background-image: url(assets/Frame\ 58.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+footer {
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 50px;
+  left: 0px;
+  bottom: 0px;
+  width: 100%;
+  background-color: black;
+  color: whitesmoke;
+}
+#footernote {
+  text-align: center;
+  font-size: 40px;
+}
+.flexible-container {
+  display: flex;
+  margin-bottom: 150px;
+  padding-top: 40px;
+  justify-content: center;
+}
+.half-width {
+  width: 45%;
+  padding-left: 2%;
+}
+.half-width img {
+  width: 90%;
+  padding: 5%;
+}
+.half-width p {
+  padding-bottom: 20px;
+  padding-right: 10px;
+}
+
+.experience-area h1 {
+  text-align: center;
+}
+#p-text {
+  text-align: center;
+  justify-content: center;
+}
+
+.experience-item {
+  box-shadow: 10px 15px 40px gray;
+  width: 50%;
+  margin-left: 2%;
+  margin-right: 2%;
+  padding-left: 40px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  border-radius: 10px;
+}
+
+.experience-item p {
+  padding-right: 20%;
+}
+
+#margherita {
+  border-radius: 40px;
+}
+
+#pepperoni {
+  border-radius: 40px;
+}
+#sicilian {
+  border-radius: 40px;
+}
+#infobar {
+  border-radius: 30px;
+  padding-top: 130px;
+  padding-bottom: 130px;
+  margin-bottom: 150px;
+  width: auto;
+  display: flex;
+  justify-content: center;
+}
+
+.infobartxt1 {
+  padding-right: 400px;
+}
+.infobartxt2 {
+  padding-right: 300px;
+}
+.infobartxt3 {
+  padding-left: 40px;
+  padding-right: 60px;
+}
+.div-image {
+  border-radius: 30px;
+}
